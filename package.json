@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jameswilmot.solid-kdr74n4a-fork-m0kw4tva",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve XnxrMzARzELULCxvaZOV --open"
+  }
+}
